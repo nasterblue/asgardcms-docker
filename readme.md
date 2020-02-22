@@ -5,8 +5,10 @@ We will install and run Asgard CMS by docker stack :
 NGINX web server
 MYSQL database
 REDIS cache
-
 ```
+* [AsgardCms
+   A modular multilingual CMS built with Laravel 5, with an MIT license.](https://asgardcms.com/)
+
 System Requirements
 ===================
 ```bash
